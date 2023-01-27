@@ -9,6 +9,8 @@ import './card.min.css';*/
 /* trying to locate where the css styling is for this generated card html */
 /* including index.css causes a cookie request error, have left it with App.css as default until I fathom out how to import */
 
+/****************** Fixed - moved css files into semantic pseudo-html creation and that seems to have resolved it to some extent but style is basic for now */
+
 function App() {
 
   const personObj={};

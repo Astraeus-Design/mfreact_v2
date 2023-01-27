@@ -1,6 +1,8 @@
 import React from 'react'
 import { Card, Icon, Image } from 'semantic-ui-react'
-/*import './index.css';*/
+
+import './card.css';
+/*import './card.min.css';*/  /* these two seem similar */
 
 const CreateBioCard = (props) => {
 
